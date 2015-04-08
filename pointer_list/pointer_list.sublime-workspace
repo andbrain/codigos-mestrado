@@ -1,0 +1,1344 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"In",
+				"Inserir"
+			],
+			[
+				"pr",
+				"proximo"
+			],
+			[
+				"p",
+				"proximo"
+			],
+			[
+				"in",
+				"inicio"
+			],
+			[
+				"I",
+				"Imprime"
+			],
+			[
+				"ge",
+				"getValues"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"st",
+				"startting"
+			],
+			[
+				"to",
+				"to_json"
+			],
+			[
+				"authen",
+				"authentication_token"
+			],
+			[
+				"au",
+				"auth_token"
+			],
+			[
+				"auth",
+				"auth_token"
+			],
+			[
+				"aut",
+				"auth_token"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"conte",
+				"content_type"
+			],
+			[
+				"en",
+				"encrypted_password"
+			],
+			[
+				"ar",
+				"$array〔variable〕"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"con",
+				"$context〔variable〕"
+			],
+			[
+				"la",
+				"layout_engine"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"bo",
+				"$book〔variable〕"
+			],
+			[
+				"book",
+				"book_path"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"json",
+				"$json_file〔variable〕"
+			],
+			[
+				"prin",
+				"print_r〔function〕"
+			],
+			[
+				"Date",
+				"DateTime〔class〕"
+			],
+			[
+				"ue",
+				"$uemail〔variable〕"
+			],
+			[
+				"poll",
+				"poll_id"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"be",
+				"before_action"
+			],
+			[
+				"un",
+				"unless	unless … end"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"vali",
+				"validates_presence_of〔function〕"
+			],
+			[
+				"time",
+				"timelineable"
+			],
+			[
+				"sel",
+				"self〔variable〕"
+			],
+			[
+				"after",
+				"after_save〔function〕"
+			],
+			[
+				"iss",
+				"issue"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"ul",
+				"ul	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"cl",
+				"cla	class .. < ParentClass .. initialize .. end"
+			],
+			[
+				"x",
+				"xml-	xmlread(..)"
+			],
+			[
+				"is",
+				"issue"
+			],
+			[
+				"order",
+				"order_params"
+			],
+			[
+				"issu",
+				"issues"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"eac",
+				"each"
+			],
+			[
+				"isu",
+				"issues"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"content",
+				"content_for	content for / end erb"
+			],
+			[
+				"eve",
+				"eventos"
+			],
+			[
+				"atividade",
+				"atividade_codigo"
+			],
+			[
+				"avalica",
+				"avaliacao_atividade"
+			],
+			[
+				"desta",
+				"destaque"
+			],
+			[
+				"ev",
+				"eventos_destaque"
+			],
+			[
+				"even",
+				"eventos_model"
+			],
+			[
+				"limi",
+				"limite"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"usua",
+				"usuarios"
+			],
+			[
+				"pro",
+				"produto"
+			],
+			[
+				"prod",
+				"produtos_model"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"da",
+				"dataMysql"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ven",
+				"venda"
+			],
+			[
+				"vendas",
+				"vendas_model"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"min",
+				"min_length"
+			],
+			[
+				"descr",
+				"descricao"
+			],
+			[
+				"for",
+				"form_validation"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"form",
+				"form_validation"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 456,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "list.h",
+			"settings":
+			{
+				"buffer_size": 453,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anderson/mestrado/percurso",
+			"settings":
+			{
+				"buffer_size": 251,
+				"line_ending": "Unix",
+				"name": "Lista: - Insere ordenado"
+			}
+		},
+		{
+			"contents": "110-gdb-show interpreter\n=thread-group-added,id=\"i1\"\n~\"GNU gdb (Ubuntu 7.7.1-0ubuntu5~14.04.2) 7.7.1\\n\"\n~\"Copyright (C) 2014 Free Software Foundation, Inc.\\n\"\n~\"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\\nThis is free software: you are free to change and redistribute it.\\nThere is NO WARRANTY, to the extent permitted by law.  Type \\\"show copying\\\"\\nand \\\"show warranty\\\" for details.\\n\"\n~\"This GDB was configured as \\\"x86_64-linux-gnu\\\".\\nType \\\"show configuration\\\" for configuration details.\"\n~\"\\nFor bug reporting instructions, please see:\\n\"\n~\"<http://www.gnu.org/software/gdb/bugs/>.\\n\"\n~\"Find the GDB manual and other documentation resources online at:\\n<http://www.gnu.org/software/gdb/documentation/>.\\n\"\n~\"For help, type \\\"help\\\".\\n\"\n~\"Type \\\"apropos word\\\" to search for commands related to \\\"word\\\"...\\n\"\n(gdb)\n110^error,msg=\"show command indefinido: \\\"interpreter\\\". Tente \\\"help show\\\".\"\n(gdb)\n111-inferior-tty-set /tmp/tmp4aq_KX\n111^done\n(gdb)\n112-gdb-set target-async 1\n113-gdb-set pagination off\n112^done\n114-gdb-set disassembly-flavor intel\n(gdb)\n115-break-insert \"\\\"/home/anderson/mestrado/pointer_list/main.cpp\\\":5\"\n113^done\n(gdb)\n114^done\n(gdb)\n115^done,bkpt={number=\"1\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x0000000000400f2c\",func=\"main()\",file=\"main.cpp\",fullname=\"/home/anderson/mestrado/pointer_list/main.cpp\",line=\"5\",thread-groups=[\"i1\"],times=\"0\",original-location=\"/home/anderson/mestrado/pointer_list/main.cpp:5\"}\n(gdb)\n116-exec-run\n=thread-group-started,id=\"i1\",pid=\"4124\"\n=thread-created,id=\"1\",group-id=\"i1\"\n116^running\n*running,thread-id=\"all\"\n=library-loaded,id=\"/lib64/ld-linux-x86-64.so.2\",target-name=\"/lib64/ld-linux-x86-64.so.2\",host-name=\"/lib64/ld-linux-x86-64.so.2\",symbols-loaded=\"0\",thread-group=\"i1\"\n(gdb)\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/libstdc++.so.6\",target-name=\"/usr/lib/x86_64-linux-gnu/libstdc++.so.6\",host-name=\"/usr/lib/x86_64-linux-gnu/libstdc++.so.6\",symbols-loaded=\"0\",thread-group=\"i1\"\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libgcc_s.so.1\",target-name=\"/lib/x86_64-linux-gnu/libgcc_s.so.1\",host-name=\"/lib/x86_64-linux-gnu/libgcc_s.so.1\",symbols-loaded=\"0\",thread-group=\"i1\"\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libc.so.6\",target-name=\"/lib/x86_64-linux-gnu/libc.so.6\",host-name=\"/lib/x86_64-linux-gnu/libc.so.6\",symbols-loaded=\"0\",thread-group=\"i1\"\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libm.so.6\",target-name=\"/lib/x86_64-linux-gnu/libm.so.6\",host-name=\"/lib/x86_64-linux-gnu/libm.so.6\",symbols-loaded=\"0\",thread-group=\"i1\"\n=breakpoint-modified,bkpt={number=\"1\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x0000000000400f2c\",func=\"main()\",file=\"main.cpp\",fullname=\"/home/anderson/mestrado/pointer_list/main.cpp\",line=\"5\",thread-groups=[\"i1\"],times=\"1\",original-location=\"/home/anderson/mestrado/pointer_list/main.cpp:5\"}\n*stopped,reason=\"breakpoint-hit\",disp=\"keep\",bkptno=\"1\",frame={addr=\"0x0000000000400f2c\",func=\"main\",args=[],file=\"main.cpp\",fullname=\"/home/anderson/mestrado/pointer_list/main.cpp\",line=\"5\"},thread-id=\"1\",stopped-threads=\"all\",core=\"3\"\n117-thread-select 1\n118-stack-info-frame\n117^done,new-thread-id=\"1\",frame={level=\"0\",addr=\"0x0000000000400f2c\",func=\"main\",args=[],file=\"main.cpp\",fullname=\"/home/anderson/mestrado/pointer_list/main.cpp\",line=\"5\"}\n(gdb)\n118^done,frame={level=\"0\",addr=\"0x0000000000400f2c\",func=\"main\",file=\"main.cpp\",fullname=\"/home/anderson/mestrado/pointer_list/main.cpp\",line=\"5\"}\n(gdb)\n119-stack-list-frames\n119^done,stack=[frame={level=\"0\",addr=\"0x0000000000400f2c\",func=\"main\",file=\"main.cpp\",fullname=\"/home/anderson/mestrado/pointer_list/main.cpp\",line=\"5\"}]\n(gdb)\n120-stack-list-arguments 1\n120^done,stack-args=[frame={level=\"0\",args=[]}]\n(gdb)\n121-thread-info\n121^done,threads=[{id=\"1\",target-id=\"process 4124\",name=\"lista_debugger\",frame={level=\"0\",addr=\"0x0000000000400f2c\",func=\"main\",args=[],file=\"main.cpp\",fullname=\"/home/anderson/mestrado/pointer_list/main.cpp\",line=\"5\"},state=\"stopped\",core=\"3\"}],current-thread-id=\"1\"\n(gdb)\n122-thread-list-ids\n122^done,thread-ids={thread-id=\"1\"},current-thread-id=\"1\",number-of-threads=\"1\"\n(gdb)\n123-var-delete var1\n124-stack-list-arguments 0 0 0\n123^error,msg=\"Variable object not found\"\n(gdb)\n124^done,stack-args=[frame={level=\"0\",args=[]}]\n(gdb)\n125-stack-list-locals 0\n125^done,locals=[name=\"lista\"]\n(gdb)\n126-var-create - * lista\n126^done,name=\"var1\",numchild=\"1\",value=\"0x400940 <_start>\",type=\"Lista *\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n127-exec-continue\n127^running\n*running,thread-id=\"1\"\n(gdb)\n128-exec-interrupt --all\n128^done\n(gdb)\n*stopped,reason=\"signal-received\",signal-name=\"SIGINT\",signal-meaning=\"Interrupt\",frame={addr=\"0x0000000000400e31\",func=\"Lista::InsereOrdenado\",args=[{name=\"this\",value=\"0x603010\"},{name=\"x\",value=\"1\"}],file=\"list.cpp\",fullname=\"/home/anderson/mestrado/pointer_list/list.cpp\",line=\"118\"},thread-id=\"1\",stopped-threads=\"all\",core=\"2\"\n129-thread-select 1\n129^done,new-thread-id=\"1\",frame={level=\"0\",addr=\"0x0000000000400e31\",func=\"Lista::InsereOrdenado\",args=[{name=\"this\",value=\"0x603010\"},{name=\"x\",value=\"1\"}],file=\"list.cpp\",fullname=\"/home/anderson/mestrado/pointer_list/list.cpp\",line=\"118\"}\n(gdb)\n130-break-delete 1\n131-exec-continue\n130^done\n(gdb)\n131^running\n*running,thread-id=\"all\"\n(gdb)\n132-stack-info-frame\n132^error,msg=\"Target is executing.\"\n(gdb)\n",
+			"settings":
+			{
+				"buffer_size": 5338,
+				"line_ending": "Unix",
+				"name": "GDB Session",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "GNU gdb (Ubuntu 7.7.1-0ubuntu5~14.04.2) 7.7.1\nCopyright (C) 2014 Free Software Foundation, Inc.\nLicense GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\nThis is free software: you are free to change and redistribute it.\nThere is NO WARRANTY, to the extent permitted by law.  Type \"show copying\"\nand \"show warranty\" for details.\nThis GDB was configured as \"x86_64-linux-gnu\".\nType \"show configuration\" for configuration details.\nFor bug reporting instructions, please see:\n<http://www.gnu.org/software/gdb/bugs/>.\nFind the GDB manual and other documentation resources online at:\n<http://www.gnu.org/software/gdb/documentation/>.\nFor help, type \"help\".\nType \"apropos word\" to search for commands related to \"word\"...\n&\"warning: GDB: Failed to set controlling terminal: ioctl inapropriado para dispositivo\\n\"\n",
+			"settings":
+			{
+				"buffer_size": 827,
+				"line_ending": "Unix",
+				"name": "GDB Console",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "+Lista * lista = 0x400940 <_start>\n",
+			"settings":
+			{
+				"buffer_size": 35,
+				"line_ending": "Unix",
+				"name": "GDB Variables",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "main();\n",
+			"settings":
+			{
+				"buffer_size": 8,
+				"line_ending": "Unix",
+				"name": "GDB Callstack",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "001 -    stopped - main();\n",
+			"settings":
+			{
+				"buffer_size": 27,
+				"line_ending": "Unix",
+				"name": "GDB Threads",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "GDB Breakpoints",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"subl",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"su",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: pak",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"mi",
+				"Migrations list"
+			],
+			[
+				"migra",
+				"Migrations list"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"mo",
+				"Migrations list"
+			],
+			[
+				"mig",
+				"Migrations list"
+			],
+			[
+				"migr",
+				"Migrations list"
+			],
+			[
+				"file",
+				"File: New View into File"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/anderson/mestrado/pointer_list/list.cpp",
+		"/home/anderson/mestrado/pointer_list/pesquisa_binaria.cpp",
+		"/home/anderson/mestrado/pointer_list/pesquisa_binaria.h",
+		"/home/anderson/mestrado/pointer_list/pointer_list.sublime-project",
+		"/home/anderson/.config/sublime-text-2/Packages/User/SublimeGDB.sublime-settings",
+		"/home/anderson/.config/sublime-text-2/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/home/anderson/mestrado/list/main.cpp",
+		"/home/anderson/mestrado/list/list.h",
+		"/home/anderson/mestrado/list/list.cpp",
+		"/home/anderson/mestrado/pilha/stack.cpp",
+		"/home/anderson/.config/sublime-text-2/Packages/C++ Snippets/reference.md",
+		"/home/anderson/mestrado/pilha/stack.h",
+		"/home/anderson/mestrado/thing.cpp",
+		"/home/anderson/mestrado/teste.cpp",
+		"/home/anderson/apps/trocados/api/config.ru",
+		"/home/anderson/apps/tests/WeAct/db/file.json",
+		"/home/anderson/apps/tests/WeAct/controller.php",
+		"/home/anderson/apps/tests/WeAct/db/.htaccess",
+		"/home/anderson/apps/tests/WeAct/.htaccess_",
+		"/home/anderson/apps/tests/sinatra/db.rb",
+		"/home/anderson/apps/tests/sinatra/Gemfile",
+		"/home/anderson/apps/tests/sinatra/views/sessions/new.erb",
+		"/home/anderson/apps/tests/sinatra/views/hello.erb",
+		"/home/anderson/apps/tests/sinatra/views/images/show.haml",
+		"/home/anderson/apps/tests/sinatra/views/layout.haml",
+		"/home/anderson/apps/tests/sinatra/views/layout.erb",
+		"/home/anderson/apps/tests/sinatra/views/images.erb",
+		"/home/anderson/apps/tests/sinatra/config.ru",
+		"/home/anderson/apps/tests/angular_http/controller.php",
+		"/home/anderson/apps/tests/angular_http/index.html",
+		"/home/anderson/apps/tests/angular_http/myEmails.txt",
+		"/home/anderson/apps/tests/angular_http/teste.html",
+		"/home/anderson/apps/tests/tutuspolls/app/views/questions/_form.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/controllers/questions_controller.rb",
+		"/home/anderson/apps/tests/tutuspolls/app/views/questions/new.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/models/possible_answer.rb",
+		"/home/anderson/apps/tests/tutuspolls/app/models/question.rb",
+		"/home/anderson/apps/tests/tutuspolls/db/migrate/20150210172903_create_possible_answers.rb",
+		"/home/anderson/apps/tests/tutuspolls/Gemfile",
+		"/home/anderson/apps/tests/tutuspolls/app/views/polls/index.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/views/polls/show.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/models/poll.rb",
+		"/home/anderson/apps/tests/tutuspolls/config/routes.rb",
+		"/home/anderson/apps/tests/tutuspolls/app/views/questions/index.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/views/layouts/application.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/views/application/_nav.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/views/polls/edit.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/views/polls/_form.html.haml",
+		"/home/anderson/apps/tests/tutuspolls/app/controllers/polls_controller.rb",
+		"/home/anderson/apps/tests/tutuspolls/app/views/polls/test.html.haml",
+		"/home/anderson/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/anderson/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/anderson/apps/tests/tutuspolls/app/views/polls/teste.html",
+		"/home/anderson/apps/tests/tutuspolls/app/assets/stylesheets/application.css",
+		"/home/anderson/apps/tests/tutuspolls/app/views/polls/test.html",
+		"/home/anderson/apps/tests/tutuspolls/app/assets/javascripts/application.js",
+		"/home/anderson/apps/tests/tutuspolls/db/migrate/20150209225226_create_polls.rb",
+		"/home/anderson/apps/tests/tutuspolls/config/application.rb",
+		"/home/anderson/apps/tests/new_issues/Gemfile",
+		"/home/anderson/apps/tests/new_issues/app/models/issue.rb",
+		"/home/anderson/apps/tests/new_issues/config/application.rb",
+		"/home/anderson/apps/tests/new_issues/config/locales/pt.yml",
+		"/home/anderson/apps/tests/new_issues/config/environment.rb",
+		"/home/anderson/apps/tests/new_issues/config/environments/development.rb",
+		"/home/anderson/apps/tests/new_issues/app/views/issues/edit.html.erb",
+		"/home/anderson/apps/tests/new_issues/app/assets/stylesheets/application.css",
+		"/home/anderson/apps/tests/new_issues/app/models/timeline.rb",
+		"/home/anderson/apps/tests/new_issues/app/controllers/timeline_controller.rb",
+		"/home/anderson/apps/tests/new_issues/app/views/layouts/application.html.erb",
+		"/home/anderson/apps/tests/new_issues/app/views/timeline/index.html.erb",
+		"/home/anderson/apps/tests/new_issues/app/views/issues/_form.html.erb",
+		"/home/anderson/apps/tests/new_issues/db/migrate/20150128190959_create_timelines.rb",
+		"/home/anderson/apps/tests/new_issues/config/routes.rb",
+		"/home/anderson/apps/tests/new_issues/app/models/project.rb",
+		"/home/anderson/apps/tests/new_issues/db/migrate/20150128175350_add_project_id_to_issues.rb",
+		"/home/anderson/apps/tests/new_issues/app/views/projects/show.html.erb",
+		"/home/anderson/apps/tests/new_issues/app/views/issues/show.html.erb",
+		"/home/anderson/apps/tests/new_issues/app/validators/yesnovalidator.rb",
+		"/home/anderson/apps/tests/new_issues/lib/yesnovalidator.rb",
+		"/home/anderson/apps/tests/new_issues/app/controllers/issues_controller.rb",
+		"/home/anderson/apps/tests/new_issues/app/views/issues/new.html.erb",
+		"/home/anderson/apps/tests/new_issues/app/views/issues/index.html.erb",
+		"/home/anderson/.config/sublime-text-2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/anderson/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+		"/home/anderson/.config/sublime-text-2/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/home/anderson/.config/sublime-text-2/Packages/User/HTML (Rails).sublime-settings",
+		"/home/anderson/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/home/anderson/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/anderson/apps/tests/new_issues/app/assets/stylesheets/issues.css.scss",
+		"/home/anderson/apps/tests/new_issues/app/views/issues/index.rss.builder",
+		"/home/anderson/apps/tests/new_issues/db/migrate/20150127101230_create_issues.rb",
+		"/home/anderson/praquerumo/transfer.php",
+		"/home/anderson/apps/tests/new_issues/app/views/issues/_search.html.erb",
+		"/home/anderson/apps/tests/new_issues/app/views/issues/index.csv.erb",
+		"/home/anderson/apps/tests/new_issues/app/controllers/application_controller.rb",
+		"/home/anderson/apps/tests/new_issues/log/development.log",
+		"/home/anderson/Downloads/angular-codeigniter-seed-master/partials/register.html",
+		"/home/anderson/Downloads/angular-codeigniter-seed-master/js/controllers.js",
+		"/home/anderson/Downloads/angular-codeigniter-seed-master/api/application/helpers/jwt_helper.php",
+		"/home/anderson/Downloads/angular-codeigniter-seed-master/api/application/helpers/password_helper.php",
+		"/home/anderson/Downloads/angular-codeigniter-seed-master/js/application.js",
+		"/home/anderson/Downloads/angular-codeigniter-seed-master/api/index.php",
+		"/home/anderson/Downloads/angular-codeigniter-seed-master/index.html",
+		"/home/anderson/apps/praquerumo/frontend/application/controllers/user.php",
+		"/home/anderson/apps/praquerumo/frontend/application/views/login.php",
+		"/home/anderson/igniter/application/config/mcapi.php",
+		"/opt/lampp/htdocs/mailchimp-api-php/src/Mailchimp/Campaigns.php",
+		"/home/anderson/Documentos/latex/teste/apresentacao.tex",
+		"/home/anderson/Downloads/mcapi2-php-examples-master/Console/cake.php",
+		"/home/anderson/Downloads/mcapi2-php-examples-master/Config/routes.php",
+		"/home/anderson/Downloads/mcapi2-php-examples-master/webroot/test.php",
+		"/home/anderson/Downloads/mcapi2-php-examples-master/webroot/index.php",
+		"/home/anderson/Downloads/mcapi2-php-examples-master/Model/AppModel.php",
+		"/home/anderson/praquerumo/application/hooks/LanguageLoader.php",
+		"/home/anderson/igniter/application/controllers/mailchimp.php",
+		"/home/anderson/Downloads/mailchimp-api-class/examples/mcapi_apikeyAdd.php",
+		"/opt/lampp/htdocs/mailchimp/examples/inc/config.inc.php",
+		"/home/anderson/Downloads/mailchimp-api-class/examples/inc/config.inc.php",
+		"/home/anderson/Downloads/mailchimp-api-class/examples/inc/MCAPI.class.php",
+		"/home/anderson/Downloads/mailchimp-api-class/MCAPI.class.php",
+		"/home/anderson/igniter/application/controllers/iugupgto.php",
+		"/home/anderson/igniter/application/views/iugu/detalhes.php",
+		"/home/anderson/igniter/application/views/iugu/index.php",
+		"/home/anderson/mercado/application/views/iugu/index.php",
+		"/home/anderson/igniter/assets/js/iugu.js",
+		"/home/anderson/mercado/application/controllers/produtos.php",
+		"/home/anderson/igniter/application/config/autoload.php",
+		"/home/anderson/mercado/application/controllers/iugu.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"get \"/hello/:first_name/:last_name\" do |first,last|\n		\"Hello #{first} #{last}\"\n	",
+			"\"></",
+			"td",
+			"            \n",
+			"//\n",
+			">\n",
+			"td",
+			"></",
+			"detect_slow_plugins",
+			"../../../images/sprite.png",
+			"../../images/profile-icons.png",
+			"../../images/hotelpref-ico-green.png",
+			"../../images/hotelpref-ico.png",
+			"../../images/sprite.png",
+			"hidden",
+			"indent",
+			"text"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"../images/sprite.png",
+			"../images/profile-icons.png",
+			"../images/hotelpref-ico-green.png",
+			"../images/hotelpref-ico.png",
+			"../images/sprite.png",
+			"png"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"settings":
+					{
+						"buffer_size": 456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 38.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "list.h",
+					"settings":
+					{
+						"buffer_size": 453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								423,
+								423
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/anderson/mestrado/percurso",
+					"settings":
+					{
+						"buffer_size": 251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Lista: - Insere ordenado",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"settings":
+					{
+						"buffer_size": 5338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5338,
+								5338
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SublimeGDB/gdb_session.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"settings":
+					{
+						"buffer_size": 827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								827,
+								827
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 608.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"settings":
+					{
+						"buffer_size": 35,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"settings":
+					{
+						"buffer_size": 8,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"settings":
+					{
+						"buffer_size": 27,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				3,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			],
+			[
+				2,
+				1,
+				3,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			0.66,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.615412445731,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"l",
+				"pointer_list.sublime-project"
+			],
+			[
+				"layou",
+				"views/layout.erb"
+			],
+			[
+				"conf",
+				"config.ru"
+			],
+			[
+				"lay",
+				"views/layout.erb"
+			],
+			[
+				"form",
+				"app/views/questions/_form.html.haml"
+			],
+			[
+				"questio",
+				"app/controllers/questions_controller.rb"
+			],
+			[
+				"pos",
+				"app/models/possible_answer.rb"
+			],
+			[
+				"ques",
+				"app/models/question.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"qustionnew",
+				"app/views/questions/new.html.haml"
+			],
+			[
+				"que",
+				"app/controllers/questions_controller.rb"
+			],
+			[
+				"poss",
+				"app/models/possible_answer.rb"
+			],
+			[
+				"question.r",
+				"app/models/question.rb"
+			],
+			[
+				"questionsin",
+				"app/views/questions/index.html.haml"
+			],
+			[
+				"pollssh",
+				"app/views/polls/show.html.haml"
+			],
+			[
+				"",
+				"app/models/question.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"model",
+				"app/models/poll.rb"
+			],
+			[
+				"questionfo",
+				"app/views/questions/_form.html.haml"
+			],
+			[
+				"pollsho",
+				"app/views/polls/show.html.haml"
+			],
+			[
+				"pollsin",
+				"app/views/polls/index.html.haml"
+			],
+			[
+				"question/for",
+				"app/views/questions/_form.html.haml"
+			],
+			[
+				"question/n",
+				"app/views/questions/new.html.haml"
+			],
+			[
+				"show",
+				"app/views/polls/show.html.haml"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"pools",
+				"app/controllers/polls_controller.rb"
+			],
+			[
+				"view/pool",
+				"app/views/polls/show.html.haml"
+			],
+			[
+				"polls/e",
+				"app/views/polls/edit.html.haml"
+			],
+			[
+				"_f",
+				"app/views/polls/_form.html.haml"
+			],
+			[
+				"polls",
+				"app/views/polls/edit.html.haml"
+			],
+			[
+				"polls/in",
+				"app/views/polls/index.html.haml"
+			],
+			[
+				"_na",
+				"app/views/application/_nav.html.haml"
+			],
+			[
+				"appli",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"style",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"config/appl",
+				"config/application.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"assets/styl",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"config/deve",
+				"config/environments/development.rb"
+			],
+			[
+				"config",
+				"config/environment.rb"
+			],
+			[
+				"is",
+				"app/models/issue.rb"
+			],
+			[
+				"contr",
+				"app/controllers/timeline_controller.rb"
+			],
+			[
+				"timeline/",
+				"app/views/timeline/index.html.erb"
+			],
+			[
+				"con",
+				"app/controllers/timeline_controller.rb"
+			],
+			[
+				"iss",
+				"app/models/issue.rb"
+			],
+			[
+				"time",
+				"app/models/timeline.rb"
+			],
+			[
+				"for",
+				"app/views/issues/_form.html.erb"
+			],
+			[
+				"pr",
+				"app/models/project.rb"
+			],
+			[
+				"prj",
+				"app/models/project.rb"
+			],
+			[
+				"valida",
+				"app/validators/yesnovalidator.rb"
+			],
+			[
+				"issu",
+				"app/models/issue.rb"
+			],
+			[
+				"auto",
+				"application/config/autoload.php"
+			],
+			[
+				"au",
+				"application/config/autoload.php"
+			],
+			[
+				"index.p",
+				"application/views/eventos/index.php"
+			],
+			[
+				"ati",
+				"application/controllers/atividades.php"
+			],
+			[
+				"ca",
+				"application/views/cabecalho.php"
+			],
+			[
+				"aut",
+				"application/config/autoload.php"
+			],
+			[
+				"confi",
+				"application/config/config.php"
+			],
+			[
+				"index",
+				"application/views/produtos/index.php"
+			],
+			[
+				"usu",
+				"application/models/usuarios_model.php"
+			],
+			[
+				"lo",
+				"application/controllers/login.php"
+			],
+			[
+				"us",
+				"application/controllers/usuarios.php"
+			],
+			[
+				"vend",
+				"application/controllers/vendas.php"
+			],
+			[
+				"pro",
+				"application/controllers/produtos.php"
+			],
+			[
+				"mos",
+				"application/views/produtos/mostra.php"
+			],
+			[
+				"inde",
+				"application/views/produtos/index.php"
+			],
+			[
+				"rod",
+				"application/views/rodape.php"
+			],
+			[
+				"ven",
+				"application/controllers/vendas.php"
+			],
+			[
+				"produ",
+				"application/controllers/produtos.php"
+			],
+			[
+				"dat",
+				"application/helpers/date_helper.php"
+			],
+			[
+				"produtos_",
+				"application/models/produtos_model.php"
+			],
+			[
+				"index.php",
+				"application/views/vendas/index.php"
+			],
+			[
+				"venda",
+				"application/models/vendas_model.php"
+			],
+			[
+				"migra",
+				"application/config/migration.php"
+			],
+			[
+				"migr",
+				"application/migrations/002_adiciona_vendido_ao_produto.php"
+			],
+			[
+				"cri",
+				"application/migrations/001_cria_tabela_de_vendas.php"
+			],
+			[
+				"mostr",
+				"application/views/produtos/mostra.php"
+			],
+			[
+				"mi",
+				"application/config/migration.php"
+			],
+			[
+				"congi",
+				"application/config/config.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/opt/lampp/htdocs/praquerumo.com.br/praquerumo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true
+}
