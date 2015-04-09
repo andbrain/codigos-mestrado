@@ -16,12 +16,15 @@ int main()
 	
 	fila->Listar();
 
-	for(int i=0;i<12;i++){
+	for(int i=0;i<3;i++){
 		if(!fila->IsVazia())
 			cout << "Saiu da fila: " << fila->Dequeue() << endl;
 		else
 			cout << "Fila vazia!" << endl;
 	}
+
+	fila->Esvaziar();
+	fila->Listar();
 
 	delete(fila);
 }

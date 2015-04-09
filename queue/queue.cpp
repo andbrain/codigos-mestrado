@@ -70,3 +70,11 @@ void Queue::Listar()
 
 	cout << "***Fim da fila" << endl;
 }
+
+void Queue::Esvaziar()
+{
+
+	while(!IsVazia()){
+		Dequeue();
+	}
+}
