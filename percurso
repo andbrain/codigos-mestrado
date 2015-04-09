@@ -3,7 +3,23 @@ Lista: - Remove elementos repetidos
 Lista: - Pesquisa elemento por posicao
 Lista: - Remove elemento por posicao
 
-Pilha: - Todas ações( inclusive expressões pré e pós fixas)
-Fila:  - Fila Circular
-Fila:  - Fila de prioridade
+(X)Pilha: - Todas ações( inclusive expressões pré e pós fixas)
+()Fila:  - Fila Circular
 
+
+*Ordenação
+()Insertion sort
+()Quick sort
+()Merge sort
+
+*Pesquisa
+()Pesquisa Binaria
+
+*HEAP
+()Heap:
+()Fila:  - Fila de prioridade
+
+*Arvores
+()Arvore Binaria
+()Arvore B
+()Arvore AVL
