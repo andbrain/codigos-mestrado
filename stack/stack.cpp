@@ -37,11 +37,11 @@ int Stack::Pop()
 	if(!IsVazia()){
 		Celula *aux = topo;
 		elemento = aux->elemento;
-		topo = topo->anterior;
+		topo = aux->anterior;
 		delete(aux);
 		numero_elementos--;
 	}
-	
+
 	return elemento;
 }
 
