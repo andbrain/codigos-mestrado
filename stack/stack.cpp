@@ -16,7 +16,7 @@ Stack::Stack()
 Stack::~Stack()
 {
 	//destrutor
-	
+
 }
 
 void Stack::Push(int x)
@@ -31,6 +31,20 @@ void Stack::Push(int x)
 	numero_elementos++;
 }
 
+int Stack::Pop()
+{
+	int elemento = -1;
+	if(!IsVazia()){
+		Celula *aux = topo;
+		elemento = aux->elemento;
+		topo = topo->anterior;
+		delete(aux);
+		numero_elementos--;
+	}
+	
+	return elemento;
+}
+
 void Stack::Imprime()
 {
 	cout << "***Pilha***" << endl;
@@ -41,7 +55,7 @@ void Stack::Imprime()
 		cout << aux->elemento << endl;
 		aux = aux->anterior;
 	}
-
+	cout << "Numero de elementos: " << numero_elementos << endl;
 	cout << "***Fim***" << endl;
 }
 
