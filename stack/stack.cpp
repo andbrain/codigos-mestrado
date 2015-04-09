@@ -16,14 +16,18 @@ Stack::Stack()
 Stack::~Stack()
 {
 	//destrutor
+	
 }
 
 void Stack::Push(int x)
 {
 	Celula *nova_celula = new Celula();
 	nova_celula->elemento = x;
-	nova_celula->anterior = inicio;
+	//inserindo o antigo topo no anterior da nova celula
+	nova_celula->anterior = topo;
+	//atualizando nova celula para ser o topo
 	topo = nova_celula;
+	//aumenta a pilha
 	numero_elementos++;
 }
 
@@ -39,4 +43,9 @@ void Stack::Imprime()
 	}
 
 	cout << "***Fim***" << endl;
+}
+
+bool Stack::IsVazia()
+{
+	return (inicio == topo);
 }
